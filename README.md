@@ -1,12 +1,13 @@
 # 📊 **Análisis de Bombardeos en la Guerra de Corea (1950-1952)**
 
-Este proyecto contiene el análisis detallado de datos históricos relacionados con misiones de bombardeo durante la **Guerra de Corea**, desde 1950 hasta 1952. Los datos se procesaron y analizaron para obtener insights clave sobre las operaciones militares, eficiencia, bajas y uso de armamento.
 ---
 
 <p align="center">
   <img src="./data/images/korean-war-500810027.jpg" alt="corea" width="600"> 
 </p>
 
+---
+Este proyecto contiene el análisis detallado de datos históricos relacionados con misiones de bombardeo durante la **Guerra de Corea**, desde 1950 hasta 1952. Los datos se procesaron y analizaron para obtener insights clave sobre las operaciones militares, eficiencia, bajas y uso de armamento.
 ---
 
 ## 🗂️ **Descripción del Proyecto**
